@@ -1,25 +1,25 @@
 {
   "files": {
-    "static/js/0.2e4ec227.chunk.js": "/repository-name/static/js/0.2e4ec227.chunk.js",
-    "static/js/0.2e4ec227.chunk.js.map": "/repository-name/static/js/0.2e4ec227.chunk.js.map",
-    "static/js/1.42e89c39.chunk.js": "/repository-name/static/js/1.42e89c39.chunk.js",
-    "static/js/1.42e89c39.chunk.js.map": "/repository-name/static/js/1.42e89c39.chunk.js.map",
-    "main.css": "/repository-name/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/repository-name/static/js/main.0f7bea13.chunk.js",
-    "main.js.map": "/repository-name/static/js/main.0f7bea13.chunk.js.map",
-    "runtime-main.js": "/repository-name/static/js/runtime-main.d94bc2db.js",
-    "runtime-main.js.map": "/repository-name/static/js/runtime-main.d94bc2db.js.map",
-    "static/js/4.c0be742e.chunk.js": "/repository-name/static/js/4.c0be742e.chunk.js",
-    "static/js/4.c0be742e.chunk.js.map": "/repository-name/static/js/4.c0be742e.chunk.js.map",
-    "static/js/5.79e17284.chunk.js": "/repository-name/static/js/5.79e17284.chunk.js",
-    "static/js/5.79e17284.chunk.js.map": "/repository-name/static/js/5.79e17284.chunk.js.map",
-    "index.html": "/repository-name/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/repository-name/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/4.c0be742e.chunk.js.LICENSE.txt": "/repository-name/static/js/4.c0be742e.chunk.js.LICENSE.txt"
+    "static/js/0.2e4ec227.chunk.js": "/FrontHaroldApp/static/js/0.2e4ec227.chunk.js",
+    "static/js/0.2e4ec227.chunk.js.map": "/FrontHaroldApp/static/js/0.2e4ec227.chunk.js.map",
+    "static/js/1.42e89c39.chunk.js": "/FrontHaroldApp/static/js/1.42e89c39.chunk.js",
+    "static/js/1.42e89c39.chunk.js.map": "/FrontHaroldApp/static/js/1.42e89c39.chunk.js.map",
+    "main.css": "/FrontHaroldApp/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/FrontHaroldApp/static/js/main.0f7bea13.chunk.js",
+    "main.js.map": "/FrontHaroldApp/static/js/main.0f7bea13.chunk.js.map",
+    "runtime-main.js": "/FrontHaroldApp/static/js/runtime-main.7ea41541.js",
+    "runtime-main.js.map": "/FrontHaroldApp/static/js/runtime-main.7ea41541.js.map",
+    "static/js/4.c42bdec3.chunk.js": "/FrontHaroldApp/static/js/4.c42bdec3.chunk.js",
+    "static/js/4.c42bdec3.chunk.js.map": "/FrontHaroldApp/static/js/4.c42bdec3.chunk.js.map",
+    "static/js/5.79e17284.chunk.js": "/FrontHaroldApp/static/js/5.79e17284.chunk.js",
+    "static/js/5.79e17284.chunk.js.map": "/FrontHaroldApp/static/js/5.79e17284.chunk.js.map",
+    "index.html": "/FrontHaroldApp/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/FrontHaroldApp/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/4.c42bdec3.chunk.js.LICENSE.txt": "/FrontHaroldApp/static/js/4.c42bdec3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d94bc2db.js",
-    "static/js/4.c0be742e.chunk.js",
+    "static/js/runtime-main.7ea41541.js",
+    "static/js/4.c42bdec3.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
     "static/js/main.0f7bea13.chunk.js"
   ]
